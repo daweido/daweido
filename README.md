@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm [David Rigaux](https://www.davidrigaux.com/), aka daweido, a Fullstack software engineer working at TheFork (a TripAdvisor company) in Paris, France.
+I'm [David Rigaux](https://www.davidrigaux.com/), aka daweido, a Fullstack software engineer working at The Bradery in Paris, France.
 
 Passionate about creating elegant software, whether that be from a back-end, front-end or architectural point of view.
 Always wanna learn more and improve my coding skills.
